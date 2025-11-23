@@ -1,3 +1,5 @@
+
+
 import Head from "next/head";
 import VideoPlayer from "../components/video-player";
 
@@ -8,6 +10,7 @@ export default function Home() {
         <title>Next.js & HLS.js</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    
 
       <main>
         <h1 className="title">
@@ -24,7 +27,7 @@ export default function Home() {
     <VideoPlayer src="https://tomaslonnblad.github.io/D/index.m3u8" />
       <VideoPlayer src="https://tomaslonnblad.github.io/G/index.m3u8" />
      <VideoPlayer src="https://tomaslonnblad.github.io/H/index.m3u8" />
-       <VideoPlayer src="https://tomaslonnblad.github.io/I/index.m3u8" />
+    // <VideoPlayer src="https://tomaslonnblad.github.io/I/index.m3u8" />
         <VideoPlayer src="https://tomaslonnblad.github.io/J/index.m3u8" />
             <VideoPlayer src="https://tomaslonnblad.github.io/K/index.m3u8" />
      <VideoPlayer src="https://tomaslonnblad.github.io/L/index.m3u8" />
