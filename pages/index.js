@@ -32,6 +32,7 @@ export default function Home() {
             <VideoPlayer src="https://tomaslonnblad.github.io/K/index.m3u8" />
      <VideoPlayer src="https://tomaslonnblad.github.io/L/index.m3u8" />
       <VideoPlayer src="https://tomaslonnblad.github.io/M/index.m3u8" />
+          <VideoPlayer src="https://tomaslonnblad.github.io/N/index.m3u8" />
         </div>
       </main>
 
